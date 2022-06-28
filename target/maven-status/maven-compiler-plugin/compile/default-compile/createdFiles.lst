@@ -1,0 +1,5 @@
+co\edu\escuelaing\endpoints\TimerEndpoint.class
+co\edu\escuelaing\configuration\WSConfigurator.class
+co\edu\escuelaing\WSStartApp.class
+co\edu\escuelaing\webcontroller\WebController.class
+co\edu\escuelaing\components\TimedMessageBroker.class
